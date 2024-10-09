@@ -1,4 +1,4 @@
-## Basic linux commands
+## Basic linux commands - Get solutions in solution.md file
 
 ### Listing commands
 ```ls option_flag arguments ```--> list the sub directories and files avaiable in the present directory
